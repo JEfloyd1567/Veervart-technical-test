@@ -1,5 +1,5 @@
 # Veervart-test
-This code in in python 3.8.
+This code is in python 3.8.
 
 this folder contain:
 # 1. Test 20:
