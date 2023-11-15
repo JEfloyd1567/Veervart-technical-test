@@ -9,7 +9,7 @@ in this folder there are the following files:
 3. input.txt: is the input for this problem.
 4. output.txt: is the answer for this problem.
 for run soduku.py:
-python3 sudoku.py < input.txt > out.txt
+python3 sudoku.py < input.txt > output.txt
 in `output.txt` contain the answer foor sudoku
 
 # 1. Test 9:
@@ -44,6 +44,6 @@ in this folder there are the following files:
    
 5. output.txt: is the answer for this problem.
 for run elevator.py:
-python3 elevator.py < input.txt > out.txt
-in `output.txt` contain the answer foor sudoku
+python3 elevator.py < input.txt > output.txt
+in `output.txt` contain the answer for elevator
 
