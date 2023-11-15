@@ -1,4 +1,4 @@
-# Veervart-test
+# Veevart-test
 This code is in python 3.8.
 
 this folder contain:
